@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/20-Reactio-Portfolioo/static/css/main.31d6cfe0.css",
+    "main.js": "/20-Reactio-Portfolioo/static/js/main.509b63bd.js",
+    "index.html": "/20-Reactio-Portfolioo/index.html",
+    "main.509b63bd.js.map": "/20-Reactio-Portfolioo/static/js/main.509b63bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.509b63bd.js"
+  ]
+}
